@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1399903730 source:c:\users\rafi-iut\desktop\oop\main.cpp
+	<bits/stdc++.h>
+	"info.h"
+	"people.h"
+	"facebook.h"
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400003892 source:c:\users\rafi-iut\desktop\oop\facebook.cpp
+	"facebook.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1400002704 c:\users\rafi-iut\desktop\oop\facebook.h
+	"info.h"
+	"people.h"
+	<bits/stdc++.h>
+
+1399996096 c:\users\rafi-iut\desktop\oop\info.h
+	<bits/stdc++.h>
+
+1400004029 c:\users\rafi-iut\desktop\oop\people.h
+	"info.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1399996583 source:c:\users\rafi-iut\desktop\oop\info.cpp
+	"info.h"
+	<bits/stdc++.h>
+
+1400004145 source:c:\users\rafi-iut\desktop\oop\people.cpp
+	"people.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400004479 source:d:\new folder\oop\facebook.cpp
+	"facebook.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1400002704 d:\new folder\oop\facebook.h
+	"info.h"
+	"people.h"
+	<bits/stdc++.h>
+
+1399996096 d:\new folder\oop\info.h
+	<bits/stdc++.h>
+
+1400004029 d:\new folder\oop\people.h
+	"info.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1399996583 source:d:\new folder\oop\info.cpp
+	"info.h"
+	<bits/stdc++.h>
+
+1399903730 source:d:\new folder\oop\main.cpp
+	<bits/stdc++.h>
+	"info.h"
+	"people.h"
+	"facebook.h"
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400004145 source:d:\new folder\oop\people.cpp
+	"people.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400013605 source:e:\oop\main.cpp
+	<bits/stdc++.h>
+	"info.h"
+	"people.h"
+	"facebook.h"
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1399996096 e:\oop\info.h
+	<bits/stdc++.h>
+
+1400004029 e:\oop\people.h
+	"info.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400002704 e:\oop\facebook.h
+	"info.h"
+	"people.h"
+	<bits/stdc++.h>
+
+1400013075 source:e:\oop\facebook.cpp
+	"facebook.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1400013841 source:e:\oop\info.cpp
+	"info.h"
+	<bits/stdc++.h>
+
+1400013717 source:e:\oop\people.cpp
+	"people.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400013551 source:c:\users\anik-pc\desktop\oop\facebook.cpp
+	"facebook.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1399999104 c:\users\anik-pc\desktop\oop\facebook.h
+	"info.h"
+	"people.h"
+	<bits/stdc++.h>
+
+1399992496 c:\users\anik-pc\desktop\oop\info.h
+	<bits/stdc++.h>
+
+1400000429 c:\users\anik-pc\desktop\oop\people.h
+	"info.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400010241 source:c:\users\anik-pc\desktop\oop\info.cpp
+	"info.h"
+	<bits/stdc++.h>
+
+1400015590 source:c:\users\anik-pc\desktop\oop\main.cpp
+	<bits/stdc++.h>
+	"info.h"
+	"people.h"
+	"facebook.h"
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1400013294 source:c:\users\anik-pc\desktop\oop\people.cpp
+	"people.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1399966751 source:c:\users\yeakub hassan rafi\downloads\compressed\friend cannon(124412,124422,124426)\oop\facebook.cpp
+	"facebook.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1399952304 c:\users\yeakub hassan rafi\downloads\compressed\friend cannon(124412,124422,124426)\oop\facebook.h
+	"info.h"
+	"people.h"
+	<bits/stdc++.h>
+
+1399945696 c:\users\yeakub hassan rafi\downloads\compressed\friend cannon(124412,124422,124426)\oop\info.h
+	<bits/stdc++.h>
+
+1399953629 c:\users\yeakub hassan rafi\downloads\compressed\friend cannon(124412,124422,124426)\oop\people.h
+	"info.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1399963441 source:c:\users\yeakub hassan rafi\downloads\compressed\friend cannon(124412,124422,124426)\oop\info.cpp
+	"info.h"
+	<bits/stdc++.h>
+
+1399968790 source:c:\users\yeakub hassan rafi\downloads\compressed\friend cannon(124412,124422,124426)\oop\main.cpp
+	<bits/stdc++.h>
+	"info.h"
+	"people.h"
+	"facebook.h"
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1399966494 source:c:\users\yeakub hassan rafi\downloads\compressed\friend cannon(124412,124422,124426)\oop\people.cpp
+	"people.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
